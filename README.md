@@ -5,8 +5,11 @@ The objective of this project is to analyze key metrics and trends in an ecommer
 
 Features
 Sales Performance Dashboard: Visualizes overall sales trends, revenue growth, and key performance indicators (KPIs).
+
 Customer Analysis: Analyzes customer behavior, including purchase frequency, average order value, and demographic insights.
+
 Product Performance: Highlights top-selling products, product categories, and sales trends over time.
+
 Interactive Filters: Allows users to drill down into specific time periods, product categories, and customer segments.
 
 Tools and Technologies
