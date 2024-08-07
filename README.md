@@ -8,6 +8,7 @@ Sales Performance Dashboard: Visualizes overall sales trends, revenue growth, an
 Customer Analysis: Analyzes customer behavior, including purchase frequency, average order value, and demographic insights.
 Product Performance: Highlights top-selling products, product categories, and sales trends over time.
 Interactive Filters: Allows users to drill down into specific time periods, product categories, and customer segments.
+
 Tools and Technologies
 Power BI: Used for creating interactive dashboards and reports.
 SQL: Used for querying and preparing data from the database (if applicable).
